@@ -8,14 +8,7 @@
   "bootloader": "Systemd-boot",
   "debug": false,
   "disk_config": {
-    "config_type": "default_layout",
-    "device_modifications": [
-      {
-        "device": "/dev/sda",
-        "wipe": true,
-        "partitions": "..."
-      }
-    ]
+    "config_type": "default_layout"
   },
   "hostname": "archlinux",
   "kernels": [
