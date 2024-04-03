@@ -85,11 +85,7 @@
     "linux"
   ],
   "keyboard-layout": "us",
-  "mirror-region": {
-    "Australia": {
-      "http://archlinux.mirror.digitalpacific.com.au/$repo/os/$arch": true
-    }
-  },
+  "mirror-region": "Worldwide",
   "nic": {
     "dhcp": true,
     "dns": null,
