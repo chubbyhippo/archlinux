@@ -34,7 +34,6 @@
   "packages": [],
   "parallel downloads": 0,
   "profile_config": {
-    "gfx_driver": "All open-source (default)",
     "greeter": "sddm",
     "profile": {
       "details": [
