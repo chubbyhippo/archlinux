@@ -75,7 +75,7 @@
     ]
   },
   "disk_encryption": null,
-  "hostname": "archlinux",
+  "hostname": "chubbyhippo",
   "kernels": [
     "linux"
   ],
